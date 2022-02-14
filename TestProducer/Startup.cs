@@ -31,7 +31,7 @@ namespace TestProducer
             
             services.AddMassTransitHostedService();
             
-            services.AddMassTransit(x =>
+            services.AddMassTransit<IKafkaBus>(x =>
             {
                 x.UsingInMemory((context, cfg) =>
                 {
