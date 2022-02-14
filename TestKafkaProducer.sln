@@ -1,0 +1,14 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProducer", "TestProducer\TestProducer.csproj", "{1C207F4E-25D3-4971-A507-A0FD8458F473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C207F4E-25D3-4971-A507-A0FD8458F473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C207F4E-25D3-4971-A507-A0FD8458F473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
